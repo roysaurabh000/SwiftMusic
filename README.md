@@ -1,6 +1,7 @@
 # ![Logo](https://github.com/BLeeEZ/amperfy/blob/master/AmperfyKit/Assets/Assets.xcassets/AppIcon.appiconset/Icon-40.png) MusicSwift
 
-<a href="https://apps.apple.com/app/amperfy-music/id1530145038#?platform=iphone"><img src=".github/AppStore/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" height="45" /></a>
+![image](https://github.com/roysaurabh000/SwiftMusic/assets/45775659/d7c69aad-a64d-4c9f-96e0-757b452caef4)
+![image](https://github.com/roysaurabh000/SwiftMusic/assets/45775659/045bcfad-50a6-4212-a324-a39f61f5e0cc)
 
 
 ## Features
